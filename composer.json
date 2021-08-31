@@ -64,6 +64,5 @@
       "extension-key": "oidc",
       "cms-package-dir": "{$vendor-dir}/typo3/cms"
     }
-  },
-	"version": "1.0.0"
+  }
 }
